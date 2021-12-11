@@ -12,8 +12,15 @@
 
     python -m django startproject mysite
 
-## Run Project
+## Run the Project
 
 ### Run for Development
 
     python manage.py runserver
+
+### Run Using Docker
+
+    docker compose up
+
+Note: **For production use different command and remote database like RDS**
+    
