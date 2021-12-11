@@ -22,5 +22,5 @@
 
     docker compose up
 
-**Note:** For production use different command and remote database like RDS
+**Note:** For production, please use different command like gevent/gunicorn/nginx/apache and remote database like RDS
     
